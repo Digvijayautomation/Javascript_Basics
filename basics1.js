@@ -3,10 +3,10 @@ console.log("Learning Javascript")
 
 
 
-// Varibales in js can be definded by using var,let, const
-// We can redecleare and reassign varibale the with var
-// We can not redecleare but reassign varibale the with let
-// We can not redecleare nor reassign varibale the with const
+// Varibales in js can be defineded by using var,let, const
+// We can redecleare and reassign varibale the with var - Scope of var is global if decalred globaly, and scope is at function level if declraed inside function
+// We can not redecleare but reassign varibale the with let - Scope of let is global if decalred globaly, and scope is at block level {} if declraed {}
+// We can not redecleare nor reassign varibale the with const - Scope of const is global if decalred globaly
 // from version es6 let and const are introduced
 // while defining no need to explicity use the data type
 
