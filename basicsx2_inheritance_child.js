@@ -1,7 +1,7 @@
 //Accessing the parent class properties 
 const employee=require("./basicsx1_inheritance_parent.js")
 
-class child extends employee
+class child extends employee // Extending the parent class
 {
 
 }

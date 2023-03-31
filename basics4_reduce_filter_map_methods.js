@@ -31,7 +31,6 @@ console.log(total_marks)
 
 
  // We can also use all methods together
-
 var num1=[20,40,60,80,100]
 let tot=num1.filter(num1=>num1%2==0).map(num1=>num1*3).reduce((sum1, num)=>sum1+num,0)
 console.log(tot)
